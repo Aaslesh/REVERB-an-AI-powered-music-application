@@ -24,9 +24,9 @@ REVERB is an end-to-end music analysis system implementing three core machine le
 - Adam optimizer (β₁=0.9, β₂=0.999)
 
 **Input Specifications**:
-Supported formats: PCM-encoded WAV, MP3 (44.1kHz/16bit)
-Input directory: 'songs/unclassified/' 'genres_data/'
-Minimum viable duration: 4 seconds
+- Supported formats: PCM-encoded WAV, MP3 (44.1kHz/16bit)
+- Input directory: 'songs/unclassified/' 'genres_data/'
+- Minimum viable duration: 4 seconds
 
 **Key Dependencies**:
 - Python==3.10.13
